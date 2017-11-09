@@ -1,0 +1,21 @@
+{
+  "name": "herokuapptest",
+  "version": "1.0.0",
+  "description": "my first heroku app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjeyP/herokuAppTest.git"
+  },
+  "author": "PAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnjeyP/herokuAppTest/issues"
+  },
+  "homepage": "https://github.com/AnjeyP/herokuAppTest#readme"
+}
